@@ -9,7 +9,9 @@ In the folder <strong>CNN_Benchmarks</strong>, we provide a naive implementation
 
 ## Datasets
 
-The datasets were collected via <A HREF="http://www.seatmaplab.com" target="_blank">Seatmaplab.com</A>. For each set of analysis, we used a training (<b>in-sample</b>) and a <b>holdout</b> file. The characteristics of each dataset are described in more detail in Web Appendix A. 
+The datasets were collected via <A HREF="http://www.seatmaplab.com" target="_blank">Seatmaplab.com</A>. 
+
+For each set of analysis, we used a training (<b>in-sample</b>) and a <b>holdout</b> file. The characteristics of each dataset are described in more detail in Web Appendix A. Files can be downloaded <A HREF="https://seatmaplab.com/public/locationalchoicedatasets/">here</A>.
 
 ## Usage
 
