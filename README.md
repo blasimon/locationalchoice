@@ -1,6 +1,10 @@
 # Locational Choices
 Models associated with the article: Blanchard, Simon J., Tatiana Dyachenko, Keri L. Kettle (2020). "Locational Choices: Modeling Consumer Preferences for Proximity to Others at Reserved-Seating Venues." <i>Journal of Marketing Research</i> [<A HREF="http://www.perceptionstudies.com/papers/Blanchard_PS_2020.pdf" target="_blank">PDF</A>].
 
+From dataset of seat maps with various occupancy, we learn to predict individual preferences for seating locations. We do so via a Bayesian model and CNN codes. 
+
+![screenshot](http://www.perceptionstudies.com/tmp/seatmaplabsample.png)
+
 ## Code
 
 In the folder <strong>PS</strong>, we provide the R codes of our Bayesian statistical model for the analysis of locational choice data. Two R functions and a DLL are provided. 
