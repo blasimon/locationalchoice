@@ -24,7 +24,7 @@ We provide three files:
 - FUN_PS_LPSreg_het_Cpp_withCov_diffNumCh_predictive.R
 - PS_locational_wCov_noLambda_20180625.dll
 
-<b>bayesm</b> and <b>Rcpp</b> are required. When using the functions, these three files are assumed to the in the working directory along with the <A HREF="https://seatmaplab.com/public/locationalchoicedatasets/">data</A> (see zip archives).
+<b>bayesm</b> and <b>Rcpp</b> are required. When using the functions, these three files are assumed to the in the working directory along with the <A HREF="https://seatmaplab.com/public/locationalchoicedatasets/">data</A> (see zip archives for sample usage and data processing).
 
 ### CNN_Benchmarks
 
