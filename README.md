@@ -3,8 +3,8 @@ Models associated with the article: Blanchard, Simon J., Tatiana Dyachenko, Keri
 
 From dataset of seat maps with various occupancy, we learn to predict individual preferences for seating locations. We do so via a Bayesian model and CNN codes. We provide experimental data (panel participants) but the code works on real data as well. 
 
-See a sample task
-<img src="http://www.perceptionstudies.com/tmp/seatmaplabsample.png" raw=true alt="Sample task" height="400" style="margin-right: 10px;" />
+See a sample task<br>
+<img src="http://www.perceptionstudies.com/tmp/seatmaplabsample.png" raw=true alt="Sample task" height="400" style="margin-right: 10px;" /><br>
 <A HREF="http://www.seatmaplab.com/experiment/128" target="_blank">Try a study for yourself</A>.
 
 ## Code
