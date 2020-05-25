@@ -1,5 +1,5 @@
 # Locational Choices
-Models associated with the article: Blanchard, Simon J., Tatiana Dyachenko, Keri L. Kettle (2020). "Locational Choices: Modeling Consumer Preferences for Proximity to Others at Reserved-Seating Venues." <i>Journal of Marketing Research</i>.
+Models associated with the article: Blanchard, Simon J., Tatiana Dyachenko, Keri L. Kettle (2020). "Locational Choices: Modeling Consumer Preferences for Proximity to Others at Reserved-Seating Venues." <i>Journal of Marketing Research</i> [<A HREF="http://www.perceptionstudies.com/papers/Blanchard_PS_2020.pdf" target="_blank">PDF</A>].
 
 ## Code
 
