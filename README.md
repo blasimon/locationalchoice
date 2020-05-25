@@ -11,12 +11,18 @@ In the folder <strong>CNN_Benchmarks</strong>, we provide a naive implementation
 
 The datasets were collected via <A HREF="http://www.seatmaplab.com" target="_blank">Seatmaplab.com</A>. 
 
-For each set of analysis, we used a training (<b>in-sample</b>) and a <b>holdout</b> file. The characteristics of each dataset are described in more detail in Web Appendix A. Datasets can be downloaded <A HREF="https://seatmaplab.com/public/locationalchoicedatasets/">here</A>.
+For each set of analysis with CNNs, we generated a training (<b>in-sample</b>) and a <b>holdout</b> file. The characteristics of each dataset are described in more detail in Appendix A in the paper. Datasets, the raw outputs from seatmaplab and the R files to generate the training and holdout files can downloaded from the zip archives <A HREF="https://seatmaplab.com/public/locationalchoicedatasets/">here</A>.
 
 ## Usage
 
 ### PS (Bayesian Choice Models)
 
+We provide three files: 
+- FUN_PS_LPSreg_het_Cpp_withCov_diffNumCh.r
+- FUN_PS_LPSreg_het_Cpp_withCov_diffNumCh_predictive.R
+- PS_locational_wCov_noLambda_20180625.dll
+
+
 ### CNN_Benchmarks
 
-For the CNN implementation, we provide a Jupyter notebook. It requires Torch, numpy, csv, and pyplot. 
+We provide a Jupyter notebook. It requires Torch, numpy, csv, and pyplot. 
