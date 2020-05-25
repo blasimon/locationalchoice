@@ -5,7 +5,7 @@ Models associated with the article: Blanchard, Simon J., Tatiana Dyachenko, Keri
 
 In the folder <strong>PS</strong>, we provide the R codes of our Bayesian statistical model for the analysis of locational choice data. Two R functions and a DLL are provided. 
 
-In the folder <strong>CNN_Benchmarks</strong>, we provide a naive implementation of covolutional neural networks (trained with adam) on the same data. The code was developed by <A HREF="https://www.gerad.ca/en/people/theo-moins">Theo Moins</A>. 
+In the folder <strong>CNN_Benchmarks</strong>, we provide a naive implementation of covolutional neural networks (trained with adam) on the same data. The code was developed by <A HREF="https://www.gerad.ca/en/people/theo-moins">Theo Moins</A>. Taking a training file and holdout file as input, it outputs holdout predictive accuracy (top1, top5). 
 
 ## Datasets
 
@@ -21,7 +21,7 @@ We provide three files:
 - FUN_PS_LPSreg_het_Cpp_withCov_diffNumCh_predictive.R
 - PS_locational_wCov_noLambda_20180625.dll
 
-bayesm and Rcpp are required. When using the functions, these three files are assumed to the in the working directory along with the data.
+<b>bayesm</b> and <b>Rcpp<b> are required. When using the functions, these three files are assumed to the in the working directory along with the data.
 
 ### CNN_Benchmarks
 
