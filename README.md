@@ -17,7 +17,7 @@ For each set of analysis with CNNs, we generated a training (<b>in-sample</b>) a
 
 ## Usage
 
-### PS (Bayesian Choice Models)
+### Folder PS (Bayesian Choice Models in R)
 
 We provide three files: 
 - FUN_PS_LPSreg_het_Cpp_withCov_diffNumCh.r
@@ -26,6 +26,6 @@ We provide three files:
 
 <b>bayesm</b> and <b>Rcpp</b> are required. When using the functions, these three files are assumed to the in the working directory along with the <A HREF="https://seatmaplab.com/public/locationalchoicedatasets/">data</A> (see zip archives for sample usage and data processing).
 
-### CNN_Benchmarks
+### Folder CNN_Benchmarks (in Python)
 
 We provide a Jupyter notebook. It requires Torch, numpy, csv, and pyplot. It requires a training and holdout csv file, available <A HREF="https://seatmaplab.com/public/locationalchoicedatasets/">here</A> (see CNN files column).
